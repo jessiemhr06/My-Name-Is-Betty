@@ -3,5 +3,5 @@ su betty
  wc -c
  chmod +x 0-iam_betty
  ./0-iam_betty
- tail -1 0-iam_betty | wc -c
- 
+ tail -1 0-iam_betty 
+ wc -c
